@@ -1,3 +1,5 @@
+This is just a copy of SVN repo https://code.google.com/p/django-dynamic-formset/
+
 ============================================
 A jQuery plugin for managing Django formsets
 ============================================
